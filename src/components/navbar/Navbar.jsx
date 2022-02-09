@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
   return (
     <div className="navBar">
-      <p>Hello</p>
+      <p>I am instagram</p>
     </div>
   );
 };
