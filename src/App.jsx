@@ -1,10 +1,10 @@
-import './App.scss';
-import Profile from './containers/profile/Profile';
+import "./App.scss";
+import Profile from "./containers/profile/Profile";
 
 function App() {
   return (
     <div className="App">
-      <Profile/>
+      <Profile />
     </div>
   );
 }

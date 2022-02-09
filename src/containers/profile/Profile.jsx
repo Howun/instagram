@@ -1,11 +1,12 @@
-import React from 'react';
-import Navbar from '../../components/navbar/Navbar';
+import React from "react";
+import Navbar from "../../components/navbar/Navbar";
 
 const Profile = () => {
-  return <>
-  
-  <Navbar className="navbar"/>
-  </>;
+  return (
+    <>
+      <Navbar className="navbar" />
+    </>
+  );
 };
 
 export default Profile;
